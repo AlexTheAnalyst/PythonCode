@@ -1,0 +1,1 @@
+Here is the GitHub link which helps walk you through how to solve the issue of returning 0 tweets: https://github.com/taspinar/twitterscraper/issues/296
